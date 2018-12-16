@@ -1,0 +1,9 @@
+.row{
+    margin: 0;
+    margin: auto;
+}
+
+#animal-search{
+    width: 350px;
+    margin-bottom: 10px;
+}
